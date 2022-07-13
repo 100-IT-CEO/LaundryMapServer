@@ -95,7 +95,7 @@ CREATE TABLE `usagelist` (
   `operation_time` varchar(100) DEFAULT NULL,
   `useage_status` int DEFAULT '1',
   PRIMARY KEY (`useage_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=25 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=25 DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
